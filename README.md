@@ -46,9 +46,6 @@
 - Comment Section
 - User Profile Management
 
-## Setup
+## Demo
+https://yesiamsr-ytc.vercel.app/
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-youtube-clone.git
